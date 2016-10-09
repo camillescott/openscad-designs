@@ -2,10 +2,10 @@
 
 ## IKEA Lamp Bracket
 
-A part from the IKEA lamp. The original is this:
+A part from the [IKEA JOXTORP lamp shade](http://www.ikea.com/us/en/catalog/products/80279263/). The original is this:
 
 ![original](images/IKEA-lamp-bracket-original.jpg)
 
-The 3D printed design is this:
+The replacement renders as:
 
-![new]((images/IKEA-lamp-bracket.png)
+![new](images/IKEA-lamp-bracket.png)
